@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from '';
+import React, { useState, useEffect } from 'react';
 
 function DataDisplay() {
   // State to hold the fetched data
